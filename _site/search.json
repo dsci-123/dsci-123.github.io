@@ -1,0 +1,45 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About the course",
+      "description": "You can find some more details about the course below",
+      "author": [],
+      "contents": "\r\nPeople\r\nInstructor: Instructor name\r\nTeaching assistant: TA name\r\nMarker: Marker name\r\nCourse meeting times\r\nLectures will be held on Mondays, Wednesdays, and Fridays from 8:30 -\r\n9:20 am in the main lecture hall. Labs are held on Thursdays at 12:30 pm\r\nin the computer lab. Check the syllabus for information about office\r\nhours.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-03-25T21:23:30-07:00"
+    },
+    {
+      "path": "assignments.html",
+      "title": "Assignments",
+      "description": "Links to the assignments can be found below",
+      "author": [],
+      "contents": "\r\nNote on group work\r\nGrading\r\nAssignments\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-03-25T21:23:31-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "DSCI 123",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-03-25T21:24:08-07:00"
+    },
+    {
+      "path": "lectures.html",
+      "title": "Lectures",
+      "description": "Lecture notes and slides are provided below",
+      "author": [],
+      "contents": "\r\nLectures\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-03-25T21:23:32-07:00"
+    },
+    {
+      "path": "syllabus.html",
+      "title": "Syllabus",
+      "description": "The course syllabus is provided below",
+      "author": [],
+      "contents": "\r\nCourse objectives and\r\noutline\r\nMeeting times\r\nGrading\r\nAssignments\r\nLabs\r\nAcademic honesty policy\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-03-25T21:23:33-07:00"
+    }
+  ],
+  "collections": []
+}
