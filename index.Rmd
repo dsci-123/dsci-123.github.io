@@ -1,7 +1,7 @@
 ---
 title: "DSCI 123"
 description: |
-  Welcome to the homepage for DSCI 123!
+  Welcome to the homepage for DSCI 123 - Introduction to Reproducible Data Science!
 site: distill::distill_website
 ---
 
@@ -12,4 +12,34 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/website.html
 ```
 
-In this course, we will...
+In this course we will learn about methods for making your data science analyses 
+and research reproducible! By the end of this course you will be familiar with:
+
+- Git/GitHub
+- Common tidyverse packages
+- R Markdown for creating project reports (and possibly websites)
+
+and more!
+
+Here is a nice little plot using the `ggplot2` package and some artificially generated
+data:
+
+```{r, include = TRUE, echo = TRUE}
+library(ggplot2)
+
+n <- 100L
+b0 <- 1.0
+b1 <- 2.5
+
+set.seed(3843092)
+x <- runif(n = n, min = 0, max = 1)
+mu <- exp(b0 + b1 * x)
+y <- rnorm(n = n, mean = mu, sd = 1.0)
+dat <- data.frame(x = x, y = y)
+
+ggplot(data = dat, aes(x = x, y = y)) +
+  geom_point() +
+  geom_smooth() +
+  theme_light()
+```
+
