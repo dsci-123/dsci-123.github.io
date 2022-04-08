@@ -19,10 +19,10 @@
     {
       "path": "index.html",
       "title": "DSCI 123",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "description": "Welcome to the homepage for DSCI 123!\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-04-01T13:13:37-07:00"
+      "contents": "\r\nIn this course, we will…\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-04-08T13:36:13-07:00"
     },
     {
       "path": "lectures.html",

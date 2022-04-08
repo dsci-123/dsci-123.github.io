@@ -1,7 +1,7 @@
 ---
 title: "DSCI 123"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Welcome to the homepage for DSCI 123!
 site: distill::distill_website
 ---
 
@@ -10,6 +10,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Learn more about creating websites with Distill at:
 # https://rstudio.github.io/distill/website.html
-
 ```
 
+In this course, we will...
