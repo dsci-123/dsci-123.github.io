@@ -1,22 +1,5 @@
 [
   {
-    "path": "posts/2022-04-01-test-post/",
-    "title": "test post",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Unknown",
-        "url": {}
-      }
-    ],
-    "date": "2022-04-01",
-    "categories": [],
-    "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2022-04-01T12:49:31-07:00",
-    "input_file": {}
-  },
-  {
     "path": "posts/week-39/",
     "title": "Week 00 - Topic of the week",
     "description": "More information about this week's module.",
