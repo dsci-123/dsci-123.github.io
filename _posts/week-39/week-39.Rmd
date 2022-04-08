@@ -16,3 +16,4 @@ knitr::opts_chunk$set(echo = FALSE)
 More information about this week's learning outcomes.
 
 # Lecture slides and assignments
+- [Lecture slides for the first day of class](https://dsci-123.github.io/lectures/week-1/w1-l1/w1-l1.html#1)
